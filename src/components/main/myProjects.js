@@ -19,12 +19,13 @@ export const myProjects = [
   },
   {
     projectTitle: "Admin Dashboard",
-    category: "css",
+    category: "react",
     imgPath: "3.png",
     projectDescription:
-      "Static dashboard design showcasing clean layout, intuitive navigation, visually appealing elements, and informative widgets for data visualization.",
-    githubLink: "https://github.com/AhmedAbdalazeem49/AdminDashboard",
-    liveDemo: "https://ahmedabdalazeem49.github.io/AdminDashboard/",
+      "Modern dashboard crafted with React and Material-UI, featuring sleek layout, intuitive navigation, captivating visuals, and comprehensive data widgets for immersive data visualization.",
+    githubLink: "https://github.com/AhmedAbdalazeem49/dashboard",
+    liveDemo:
+      "https://dashboard-exy8rkamb-ahmed-abdalazeems-projects.vercel.app/",
   },
   {
     projectTitle: "HangMan Game",
@@ -43,24 +44,6 @@ export const myProjects = [
       "Interactive UI, dynamic timer, real-time feedback, diverse difficulty levels, and responsive design for optimal user experience.",
     githubLink: "https://github.com/AhmedAbdalazeem49/Typing_Speed_Test",
     liveDemo: "https://ahmedabdalazeem49.github.io/Typing_Speed_Test/",
-  },
-  {
-    projectTitle: "StarBucks Page",
-    category: "css",
-    imgPath: "6.png",
-    projectDescription:
-      "Captivating visuals, seamless navigation, enticing offers, responsive design, immersive experience, showcasing products, and inviting ambiance.",
-    githubLink: "https://github.com/AhmedAbdalazeem49/Starbucks_Landing_Page",
-    liveDemo: "https://ahmedabdalazeem49.github.io/Starbucks_Landing_Page/",
-  },
-  {
-    projectTitle: "Fetch Github Repos",
-    category: "javascript",
-    imgPath: "7.png",
-    projectDescription:
-      "Utilizes JavaScript to retrieve user repositories. Dynamic UI, responsive layout, real-time updates, and seamless navigation.",
-    githubLink: "https://github.com/AhmedAbdalazeem49/Fetch_Github_repos",
-    liveDemo: "https://ahmedabdalazeem49.github.io/Fetch_Github_repos/",
   },
   {
     projectTitle: "Memory Game",
@@ -99,26 +82,6 @@ export const myProjects = [
     liveDemo: "https://ahmedabdalazeem49.github.io/Easy_Russia/",
   },
   {
-    projectTitle: "KFC Landing Page",
-    category: "css",
-    imgPath: "12.png",
-    projectDescription:
-      "Visually enticing design, mouth-watering imagery, intuitive navigation, enticing offers, responsive layout, showcasing menu items, inviting ambiance.",
-    githubLink: "https://github.com/AhmedAbdalazeem49/KFC_Landing_Page",
-    liveDemo: "https://ahmedabdalazeem49.github.io/KFC_Landing_Page/",
-  },
-  {
-    projectTitle: "Calculator",
-    category: "javascript",
-    imgPath: "13.png",
-    projectDescription:
-      "Simple JS-powered interface. Basic arithmetic operations, responsive design, user-friendly experience, and intuitive functionality for efficient calculations.",
-    githubLink:
-      "https://github.com/AhmedAbdalazeem49/Simple_Calculator_JavaScript",
-    liveDemo:
-      "https://ahmedabdalazeem49.github.io/Simple_Calculator_JavaScript/",
-  },
-  {
     projectTitle: "Currency Convertor",
     category: "api",
     imgPath: "14.png",
@@ -126,15 +89,6 @@ export const myProjects = [
       "Utilizes API for real-time rates. Dynamic UI, multi-currency support, accurate conversions, responsive design, seamless user experience.",
     githubLink: "https://github.com/AhmedAbdalazeem49/CurrencyConverterApp",
     liveDemo: "https://ahmedabdalazeem49.github.io/CurrencyConverterApp/",
-  },
-  {
-    projectTitle: "Jokes Generator",
-    category: "api",
-    imgPath: "15.png",
-    projectDescription:
-      "Harnesses API for diverse humor. Dynamic UI, endless jokes, adjustable settings, responsive design, entertaining user experience.",
-    githubLink: "https://github.com/AhmedAbdalazeem49/DarkJokes",
-    liveDemo: "https://ahmedabdalazeem49.github.io/DarkJokes/",
   },
   {
     projectTitle: "Quote Generator",

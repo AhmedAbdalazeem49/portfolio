@@ -1,5 +1,5 @@
 import Lotti from "lottie-react";
-import React, { useRef } from "react";
+import { useRef } from "react";
 import developerAnimation from "../../animation/developer.json";
 import "./hero.css";
 const Hero = () => {
@@ -13,7 +13,7 @@ const Hero = () => {
         </div>
         <h1 className="title">Software Designer and Front-End Developer.</h1>
         <p className="sub-title">
-          I'm Ahmed Abdalazeem, a software designer and front-End developer
+          I&apos;m Ahmed Abdalazeem, a software designer and front-End developer
           based on Mansoura Egypt.
         </p>
         <div className="all-icons">
